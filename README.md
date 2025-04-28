@@ -1,0 +1,1 @@
+# zabbix-ntp-time-sync
